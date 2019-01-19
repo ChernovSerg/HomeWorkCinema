@@ -31,8 +31,9 @@ public final class Time implements Cloneable {
     @Override
     public String toString() {
         return hour + "hh:" +
-                min + "mm, OR " +
-                durationOfMin + " min";
+                min + "mm";
+//                min + "mm, OR " +
+//                durationOfMin + " min";
     }
 
     public int getDurationOfMin() {
