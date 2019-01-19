@@ -80,6 +80,7 @@ public class Cinema {
         cinema.removeMovie(movie1);
         System.out.println("master");
         System.out.println("master11");
+        System.out.println("master111");
     }
 
 }
