@@ -79,6 +79,9 @@ public class Cinema {
         cinema.removeSeance(seance4,Days.FRIDAY);
         cinema.removeMovie(movie1);
         System.out.println("master");
+        System.out.println("master11");
+        System.out.println("master111");
+        System.out.println("master1112");
         System.out.println("branch2");
         System.out.println("branch22");
         System.out.println("branch222");
