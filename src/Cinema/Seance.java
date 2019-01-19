@@ -65,7 +65,7 @@ public class Seance implements Comparable<Seance> {
         Seance seance1 = new Seance(movie1, new Time(23, 0));
         System.out.println(seance1);
 
-        Movie movie2 = new Movie("Лара Крофт", new Time(140));
+        Movie movie2 = new Movie("", new Time(140));
         Seance seance2 = new Seance(movie2, new Time(21, 0));
         System.out.println(seance2);
     }
