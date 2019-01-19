@@ -5,8 +5,8 @@ import java.util.TreeMap;
 
 public class Cinema {
     private Map<Days, Shedule> sheduleMap;
-    private Time open;
-    private Time close;
+    private final Time open;
+    private final Time close;
 
     public Cinema(Time open, Time close) {
         sheduleMap = new TreeMap<Days, Shedule>();
