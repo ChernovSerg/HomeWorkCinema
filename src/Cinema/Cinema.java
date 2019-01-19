@@ -82,6 +82,8 @@ public class Cinema {
         System.out.println("master11");
         System.out.println("master111");
         System.out.println("master1112");
+        System.out.println("branch1");
+        System.out.println("branch1");
         System.out.println("branch2");
         System.out.println("branch22");
         System.out.println("branch222");
