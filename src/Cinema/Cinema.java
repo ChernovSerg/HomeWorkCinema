@@ -81,6 +81,8 @@ public class Cinema {
         System.out.println("branch1");
         System.out.println("Вносим изменения в ветку master");
         System.out.println("Вносим еще изменение в ветку brach1");
+        System.out.println("Вносим еще изменение в ветку brach1");
+        System.out.println("Вносим еще изменение в ветку brach1");
     }
 
 }
