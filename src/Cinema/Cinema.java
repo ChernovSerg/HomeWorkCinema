@@ -78,6 +78,7 @@ public class Cinema {
         cinema.addSeance(seance6, Days.SATURDAY);
         cinema.removeSeance(seance4,Days.FRIDAY);
         cinema.removeMovie(movie1);
+        System.out.println("branch1");
     }
 
 }
